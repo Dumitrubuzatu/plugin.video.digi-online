@@ -1,3 +1,9 @@
+v 0.2.8
+- Added programmes
+  Comedy Central
+  Travel Mix
+  Mezzo
+
 v 0.2.7
 - Added programmes
   CNN [EN]
